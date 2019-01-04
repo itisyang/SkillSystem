@@ -4,4 +4,4 @@
 
 
 
-![专业知识体系](https://raw.githubusercontent.com/itisyang/SkillSystem/master/专业知识体系.png)
+![专业知识体系](https://raw.githubusercontent.com/itisyang/SkillSystem/master/专业知识体系.svg)
